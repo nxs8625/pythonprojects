@@ -1,0 +1,6 @@
+S1; Mango; 3.00;
+S2; Strawberry Banana; 3.00;
+S3; Dragonfruit; 4.00;
+T1; Tropical Sea Breeze; 4.50;
+T2; Hawaiian Hurricane; 4.50;
+T3; Shit Blaster 9000; 4.50;
